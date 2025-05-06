@@ -5,10 +5,10 @@ NexTech Solutions is a mobile-first, responsive business website built with Boot
 # ![NexTech Solutions Banner](https://via.placeholder.com/1200x300.png?text=NexTech+Solutions+-+Empowering+Digital+Success)
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/YourUsername/NexTech-Solutions">
-  <img alt="Live Site" src="https://img.shields.io/website?url=https%3A%2F%2Fnextech-demo.netlify.app">
-  <img alt="Built With Bootstrap 5" src="https://img.shields.io/badge/Built%20With-Bootstrap%205-blue">
-  <img alt="Deployed on Netlify" src="https://img.shields.io/badge/Deployed%20On-Netlify-00C7B7?logo=netlify">
+  <img alt="License" src="https://img.shields.io/github/license/MinukuriRishaReddy/NexTech-Solutions">
+  <img alt="Live Site" src="https://visionary-bublanina-f2a1aa.netlify.app">
+  <img alt="Built With Bootstrap 5" src="https://visionary-bublanina-f2a1aa.netlify.app">
+  <img alt="Deployed on Netlify" src="https://visionary-bublanina-f2a1aa.netlify.app">
 </p>
 
 ---
