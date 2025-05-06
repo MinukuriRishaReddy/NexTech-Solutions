@@ -4,13 +4,6 @@ NexTech Solutions is a mobile-first, responsive business website built with Boot
 
 # ![NexTech Solutions Banner](https://via.placeholder.com/1200x300.png?text=NexTech+Solutions+-+Empowering+Digital+Success)
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/MinukuriRishaReddy/NexTech-Solutions">
-  <img alt="Live Site" src="https://visionary-bublanina-f2a1aa.netlify.app">
-  <img alt="Built With Bootstrap 5" src="https://visionary-bublanina-f2a1aa.netlify.app">
-  <img alt="Deployed on Netlify" src="https://visionary-bublanina-f2a1aa.netlify.app">
-</p>
-
 ---
 
 # 🚀 NexTech Solutions — Empowering Digital Success
