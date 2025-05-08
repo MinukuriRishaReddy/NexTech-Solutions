@@ -13,8 +13,6 @@ Welcome to **NexTech Solutions**, a sleek, responsive, and business-centric webs
 ---
 
 ## 🌍 Live Preview
-
-🔗 [Visit Live Website](https://visionary-bublanina-f2a1aa.netlify.app)  
 📂 [Check Out the Repository](https://github.com/MinukuriRishaReddy/NexTech-Solutions)
 
 ---
